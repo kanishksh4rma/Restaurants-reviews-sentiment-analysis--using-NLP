@@ -3,7 +3,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
 
---
+---
 
 ## **Installation**
 
@@ -12,7 +12,7 @@
 ```
 pip install pandas textblob wordcloud seaborn
 
-git clone https://github.com/kanishksh4rma/Shinzo-Abe-twitter-Sentiment-analysis.git
+git clone https://github.com/kanishksh4rma/Restaurants-reviews-sentiment-analysis--using-NLP.git
 ```
 
 ![demo_install](/screenshots/demo_install.png)
